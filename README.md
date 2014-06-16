@@ -1,5 +1,6 @@
 Popular Journal Article
 =======================
+<b>Supported version : LR 6.1 GA2 and LR 6.2 GA1</b>
 
 Popular Journal Article application can be used to find out popular journal article/web contents of you current group. Based on the view count of journal article this app will display list of articles. Application will not display any web content/Journal article with zero view counts. User can configure number of popular articles they want to see from configuration menu. 
 
